@@ -30,7 +30,7 @@ Todos os artigos traduzidos, serão armazenados no repositório [traduz-ai](http
 ### Documentação
 - [Jasmine](https://github.com/cerebrobr/jasmine-br-docs)
 
-### ScreenCats
+### Screencasts
 - [MongoDB University](https://github.com/cerebrobr/mongodb-university-brasil)
 - [Node.js - Jumpstart for Devs](https://github.com/cerebrobr/nodejs-jumpstart-for-devs-legendasPTBR)
 - [Egghead](https://github.com/cerebrobr/egghead.br)
