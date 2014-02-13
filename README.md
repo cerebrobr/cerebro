@@ -36,7 +36,7 @@ Todos os artigos traduzidos, serão armazenados no repositório [traduz-ai](http
 
 ## Contribuições
 
-Estamos em busca de colaboradores. Se você puder ajudar e quer fazer parte desta iniciativa para disseminar o conhecimento, confira as informações abaixo.
+Estamos em busca de colaboradores. Se você puder ajudar e quiser fazer parte desta iniciativa para disseminar o conhecimento, confira as informações abaixo.
 
 ### Guia para contribuir
 
