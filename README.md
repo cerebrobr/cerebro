@@ -1,10 +1,10 @@
 ![Logo Cerebro](logo-cerebro.jpg "Cerebro")
 
-## Olá, sejam bem vindo ao Cerebro!
+## Olá, sejam bem vindo ao CEREBRO!
 
-Acreditamos que você saiba da importância em dominar o idioma inglês na área de Desenvolvimento, Programação e afins. Porém, sabemos também que nem todos possuem meios para ingressar em um curso de inglês. É verdade que dispomos de cursos online gratuitos, mas a presença de um professor e o chat com os colegas em sala de aula é de grande ajuda. Nem todo mundo é autodidata ou nasce num berço de ouro.
+Acreditamos que você saiba da importância em dominar o idioma inglês na área de Desenvolvimento, Programação e afins. Porém, sabemos também que nem todos possuem meios para ingressar em um curso de inglês. É verdade que dispomos de cursos online gratuitos, mas a presença de um professor e o _chat_ com os colegas em sala de aula é de grande ajuda. Nem todo mundo é autodidata ou nasce num berço de ouro. Não é verdade?
 
-Sendo assim, foi o criado o Cerebro. Um espaço que vai reunir documentos traduzidos e ser o `help` nos seus estudos enquanto você fica fera no inglês para se virar sozinho. Combinado? =]
+Sendo assim, foi o criado o CEREBRO. Um espaço que vai reunir documentos traduzidos e ser o `help` nos seus estudos enquanto você fica fera no inglês para se virar sozinho. Combinado? =]
 
 Esperamos que este espaço seja útil e que ajude no seu crescimento profissional e pessoal.
 
