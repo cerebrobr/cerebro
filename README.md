@@ -62,11 +62,11 @@ Estamos em busca de colaboradores. Se você puder ajudar e quiser fazer parte de
 - Utilize notas de rodapé para termos técnicos com o seu respectivo link externo para mais informações ou alguma referência.
 - Mensagens de *commits* devem ser em **pt-BR**.
 - Caso o documento possua alguma referência para um documento em inglês, traduza o título e coloque entre parênteses (em inglês). Ex.: [Um título qualquer para o documento (em inglês)](http://www.linkparaodocumento.com).
-- 
+
 
 ### Futuras traduções
 
-Para facilitar a pesquisa de futuros documentos passíveis de tradução, estamos disponibilizando este link. Porém, antes de iniciar o procedimento de tradução, leia as seguintes considerações:
+Para facilitar a pesquisa de futuros documentos passíveis de tradução, estamos disponibilizando este [link](http://resrc.io/list/10/list-of-free-programming-books/). Porém, antes de iniciar o procedimento de tradução, leia as seguintes considerações:
 
 - Verifique se a licença da obra permite que o mesmo seja traduzido e compartilhado na comunidade com os devidos créditos ao autor original. Isso evita perda de tempo da sua parte e dor de cabeça para todos nós. 
 - Caso você encontre algum material que esteja d seu agrado e você gostaria de traduzí-lo, comente nesta [_issue_](https://github.com/cerebrobr/cerebro/issues/2) a sua intenção em traduzí-lo.
