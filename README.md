@@ -69,5 +69,6 @@ Estamos em busca de colaboradores. Se você puder ajudar e quiser fazer parte de
 Para facilitar a pesquisa de futuros documentos passíveis de tradução, estamos disponibilizando este [link](http://resrc.io/list/10/list-of-free-programming-books/). Porém, antes de iniciar o procedimento de tradução, leia as seguintes considerações:
 
 - Verifique se a licença da obra permite que o mesmo seja traduzido e compartilhado na comunidade com os devidos créditos ao autor original. Isso evita perda de tempo da sua parte e dor de cabeça para todos nós. 
-- Caso você encontre algum material interessante e quer traduzí-lo, comente nesta [_issue_](https://github.com/cerebrobr/cerebro/issues/2) a sua intenção em traduzí-lo.
+- Alguns documentos e materiais já se encontram traduzidos na iniciativa do link mencionado acima, confira [aqui](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pt_BR.md) a lista.
+- Caso você encontre algum material que esteja do seu agrado, comente nesta [_issue_](https://github.com/cerebrobr/cerebro/issues/2) a sua intenção em traduzí-lo.
 - Qualquer material acerca de Desenvolvimento Web, Programação e TI será bem vindo.
