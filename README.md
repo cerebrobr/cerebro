@@ -29,7 +29,7 @@ Todos os artigos traduzidos, serão armazenados no repositório [traduz-ai](http
 
 ### Documentação
 - [Jasmine](https://github.com/cerebrobr/jasmine-br-docs)
-- [d3js](https://github.com/letanure/d3js-docs)
+- [d3js](https://github.com/cerebrobr/doc-d3.js)
 
 ### ScreenCats
 - [MongoDB University](https://github.com/cerebrobr/mongodb-university-brasil)
