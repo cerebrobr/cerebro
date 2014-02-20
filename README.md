@@ -18,9 +18,6 @@ Confira o material disponível até o momento no Cerebro:
 - [Eloquent JavaScript](https://github.com/cerebrobr/eloquente-javascript)
 - [Sinatra](https://github.com/cerebrobr/sinatra-book)
 
-### Artigos
-Todos os artigos traduzidos, serão armazenados no repositório [traduz-ai](https://github.com/cerebrobr/traduz-ai)
-
 ### Guias
 - [PromiseJS](https://github.com/cerebrobr/promiseJS.br)
 - [Art of Node](https://github.com/cerebrobr/art-of-node/blob/master/readme.pt-br.md)
@@ -36,6 +33,11 @@ Todos os artigos traduzidos, serão armazenados no repositório [traduz-ai](http
 - [Node.js - Jumpstart for Devs](https://github.com/cerebrobr/nodejs-jumpstart-for-devs-legendasPTBR)
 - [Egghead](https://github.com/cerebrobr/egghead.br)
 
+### Artigos
+Todos os artigos traduzidos, serão armazenados no repositório [traduz-ai](https://github.com/cerebrobr/traduz-ai)
+
+### Palestras
+Todas as palestras, serão armazenados no repositório [presentation-list](https://github.com/cerebrobr/presentation-list)
 
 ## Contribuições
 
