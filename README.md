@@ -51,10 +51,10 @@ Estamos em busca de colaboradores. Se você puder ajudar e quiser fazer parte de
 
 ### Entendendo as labels
 
-- *translating* - tradução de arquivo em andamento
-- *revision*    - arquivos que estão sendo revisados
-- *update*      - arquivo atualizado no repositório original
-- *question*    - espaço para sugestões e perguntas referentes ao repositório
+- *em tradução* - tradução de arquivo em andamento
+- *em revisão*  - arquivos que estão sendo revisados
+- *atualizado*  - arquivo atualizado no repositório original
+- *dúvidas*     - espaço para sugestões e perguntas referentes ao repositório
 
 
 ### Algumas recomendações
@@ -66,6 +66,14 @@ Estamos em busca de colaboradores. Se você puder ajudar e quiser fazer parte de
 
 
 ### Futuras traduções
+
+- Para repositórios _forkados_, crie uma branch com o nome **pt-br**.
+- Repositórios com apenas um `README.md`, crie um novo arquivo `README-pt-BR.md`.
+- Novos artigos devem ser incluídos no repositório **traduz-ai**.
+- Novo vídeos para palestras devem ser incluídos no repositório **presentation-list**.
+
+
+#### Importante
 
 Para facilitar a pesquisa de futuros documentos passíveis de tradução, estamos disponibilizando este [link](http://resrc.io/list/10/list-of-free-programming-books/). Porém, antes de iniciar o procedimento de tradução, leia as seguintes considerações:
 
