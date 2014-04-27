@@ -12,7 +12,14 @@ Bons estudos!
 
 ## Estrutura
 
-> Estamos construindo uma nova estrutura para o Cerebro. =]
+- [Artigos](https://github.com/cerebrobr/artigos)
+- [Apresentações](https://github.com/cerebrobr/apresentacoes)
+- [Pesquisas](https://github.com/cerebrobr/pesquisas)
+- [Documentações](https://github.com/cerebrobr/documentacoes)
+- [Guias](https://github.com/cerebrobr/guias)
+- [Biblioteca](https://github.com/cerebrobr/biblioteca)
+- [Adesivos](https://github.com/cerebrobr/adesivos)
+- [Ferramentas](https://github.com/cerebrobr/ferramentas)
 
 
 ## Como Contribuir
@@ -40,7 +47,7 @@ Abaixo, segue um guia sobre como contribuir com o projeto CEREBRO.
 5. Faça o _Pull Request_ para enviar o artigo traduzido.
 6. Adicione um comentário na _issue_ convocando os editores (_@cerebrobr/editores_).
 
-#### Livros
+#### Livros, Documentações e Guias
 
 > Instruções em breve.
 
