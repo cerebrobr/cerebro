@@ -20,6 +20,10 @@ Bons estudos!
 - [Biblioteca](https://github.com/cerebrobr/biblioteca)
 - [Adesivos](https://github.com/cerebrobr/adesivos)
 - [Ferramentas](https://github.com/cerebrobr/ferramentas)
+- [Universidade](https://github.com/cerebrobr/universidade)
+- [Comunidade](https://github.com/cerebrobr/comunidade)
+- [Livros](https://github.com/cerebrobr/livros)
+- [Iniciantes](https://github.com/cerebrobr/iniciantes)
 
 
 ## Como Contribuir
