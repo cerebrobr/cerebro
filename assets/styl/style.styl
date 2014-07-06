@@ -1,0 +1,113 @@
+@import "_all"
+
+//
+// Scaffolding
+// ----------------------------------------------------------------------------
+
+// General Grid
+.header,
+.content,
+.footer
+    row()
+
+// Header
+.header
+    img
+        display: block
+        text-align: center
+        margin: 20px auto
+    h1
+        text-align: center
+        color: color-title
+        text-shadow: 0 1px 1px color-negative
+    h3
+        margin-top: 0
+        text-align: center
+
+// Main content
+.content
+    margin: 40px auto
+
+.section
+    column(10)
+    offset(1)
+
+// Footer
+.footer
+    margin: 20px auto
+    border-top: 1px solid #e3e3e3
+    p, a
+        text-align: center
+        color: darken(color-font, 10%)
+
+//
+// Helpers
+// ----------------------------------------------------------------------------
+
+// Navigation
+.nav-main
+    width: 60%
+    display: table
+    margin: 20px auto
+
+.nav-structure
+    width: 100%
+    display: table
+    margin: 20px auto
+
+.list
+    unstyled()
+    li
+        column(4)
+        a
+            display: block
+            margin: 10px auto
+            text-align: center
+            text-transform: uppercase
+            letter-spacing: 0.0625em
+            color: color-negative
+
+// Buttons
+.btn
+    btn(btn-color, 2px)
+    text-shadow: 0 1px 1px darken(btn-color, 60%)
+    &:hover
+        btn(darken(btn-color, 25%), 2px)
+
+// Types
+.title
+    border-bottom: 1px solid #e3e3e3
+
+.sub-title
+    color: color-subtitle
+    border-left: 2px solid #2c3e50
+    padding-left: 10px
+
+.box
+    padding: 5px 10px
+
+.text-notready
+    border-left: 2px solid darken(color-notready, 20%)
+    background: lighten(color-notready, 96%)
+    p
+        color: darken(color-notready, 20%)
+.text-recommend
+    margin-top: 20px
+    color: color-recommend
+    border-left: 2px solid darken(color-recommend, 20%)
+    background: lighten(color-recommend, 96%)
+    h4
+        margin: 2px auto
+        font-weight: 400
+    h4, p, ul, li, a
+        color: darken(color-recommend, 20%)
+.text-important
+    margin-top: 20px
+    color: color-important
+    border-left: 2px solid darken(color-important, 20%)
+    background: lighten(color-important, 96%)
+    h4
+        margin: 2px auto
+        font-weight: 400
+    h4, p, ul, li, a
+        color: darken(color-important, 20%)

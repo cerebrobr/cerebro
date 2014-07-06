@@ -1,0 +1,16 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Author: Vitor Britto
+  Site: www.vitorbritto.com.br
+  Twitter: @vitorbritto
+  Location: Brazil
+
+
+/* SITE */
+  Standards: HTML5, CSS3, JavaScript
+  Components: Modernizr, jQuery, GruntJS, Bower
+  Preprocessors: Stylus (with NIB)
+  Software: Photoshop, Sublime Text 2, Terminal

@@ -1,0 +1,32 @@
+{
+    "name": "javascript-brasil-contest",
+    "version": "0.1.0",
+    "title": "JavaScript Brasil Contest",
+    "homepage": "http://contest.javascriptbrasil.com",
+    "description": "Site para o primeiro JavaScritpt Brasil Contest",
+    "private": true,
+    "author": {
+        "name": "Vitor Britto",
+        "url": "http://vitorbritto.com.br",
+        "email": "code@vitorbritto.com.br"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/vitorbritto/jsbcontest.git"
+    },
+    "bugs": {
+        "url": "https://github.com/vitorbritto/jsbcontest/issues"
+    },
+    "engines": {
+        "node": ">=0.10.0",
+        "npm": ">=1.1.0"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.2",
+        "grunt-browser-sync": "~0.3.0",
+        "grunt-contrib-watch": "~0.5.3",
+        "grunt-contrib-stylus": "~0.11.0",
+        "time-grunt": "~0.1.1",
+        "load-grunt-tasks": "~0.2.0"
+    }
+}

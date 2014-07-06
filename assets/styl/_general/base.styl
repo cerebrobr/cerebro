@@ -1,0 +1,63 @@
+
+// General
+*
+  box-sizing: border-box
+
+body
+    font-size: base-font-size
+    font-family: font-default
+    font-weight: 300
+    height: 100%
+    background: white
+    border-top: 4px solid color-font
+
+// Text
+h1, h2, h3, h4, h5, h6
+    color: color-title
+    font-family: font-title
+    font-weight: 400
+    text-transform: uppercase
+
+h1
+    font-size: 36px
+
+h2
+    font-size: 32px
+
+h3
+    font-size: 24px
+
+h4
+    font-size: 21px
+
+h1
+    margin: 0
+
+p
+    color: color-font
+    font-family: font-default
+    font-size: base-font-size
+    line-height: base-line-height
+
+a
+    transition()
+    color: color-link
+    font-size: base-font-size
+    text-decoration: none
+    border-bottom: 1px dashed color-link
+    &:hover
+        color: darken(color-link, 20%)
+        border-bottom: 1px dashed darken(color-link, 20%)
+
+ul, ol
+    margin: 0
+    padding: 0
+    list-style-type: none
+    li
+        color: color-font
+        font-family: font-default
+        font-size: base-font-size
+        line-height: base-line-height
+
+img
+    max-width: 100%
