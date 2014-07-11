@@ -23,7 +23,7 @@ Bons estudos!
 - [Universidade](https://github.com/cerebrobr/universidade)
 - [Comunidade](https://github.com/cerebrobr/comunidade)
 - [Livros](https://github.com/cerebrobr/livros)
-- [Iniciantes](https://github.com/cerebrobr/iniciantes)
+- [Iniciantes](https://github.com/tableless/iniciantes)
 
 
 ## Como Contribuir
