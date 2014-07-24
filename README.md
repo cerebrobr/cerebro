@@ -60,7 +60,7 @@ Abaixo, segue um guia sobre como contribuir com o projeto CEREBRO.
 - Não esqueça de abrir uma _issue_ e notificar a tradução do mesmo. Isso conserva a boa comunicação entre todos os editores e colaboradores do projeto. 
 - Certifique-se de que o artigo seja colocado no diretório da sua respectiva tecnologia (ex.: Artigo sobre JavaScript, na pasta `javascript`)
 - Utilize notas de rodapé para termos técnicos com o seu respectivo link externo para mais informações ou alguma referência.
-- As Mensagens de _commits_ devem ser em **pt-BR**. (ex.: Adiciona tradução Lorem Ipsum, Atualiza tradução Lorem Ipsum... )
+- As Mensagens de _commits_ devem ser em **pt-BR** no modo imperativo. (ex.: Adiciona tradução Lorem Ipsum, Atualiza tradução Lorem Ipsum... )
 - Caso o documento possua alguma referência para um documento em inglês, traduza o título e coloque entre parênteses (em inglês). Ex.: [Um título qualquer para o documento (em inglês)](http://www.linkparaodocumento.com).
 
 #### Sobre as labels
@@ -88,7 +88,7 @@ Abaixo, segue um guia sobre como contribuir com o projeto CEREBRO.
 #### Recomendações
 
 - O _merge_ só deverá ser feito após **2 ou mais editores** realizarem a **revisão** do conteúdo.
-- Mensagens de _commits_ devem ser em **pt-BR**. (ex.: Adiciona tradução Lorem Ipsum, Atualiza documento Lorem Ipsum... )
+- Mensagens de _commits_ devem ser em **pt-BR** no modo imperativo. (ex.: Adiciona tradução Lorem Ipsum, Atualiza documento Lorem Ipsum... )
 
 ### Importante
 
