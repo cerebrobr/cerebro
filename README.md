@@ -51,10 +51,6 @@ Abaixo, segue um guia sobre como contribuir com o projeto CEREBRO.
 5. Faça o _Pull Request_ para enviar o artigo traduzido.
 6. Adicione um comentário na _issue_ convocando os editores (_@cerebrobr/editores_).
 
-#### Livros, Documentações e Guias
-
-> Instruções em breve.
-
 #### Recomendações
 
 - Não esqueça de abrir uma _issue_ e notificar a tradução do mesmo. Isso conserva a boa comunicação entre todos os editores e colaboradores do projeto. 
@@ -63,7 +59,7 @@ Abaixo, segue um guia sobre como contribuir com o projeto CEREBRO.
 - As Mensagens de _commits_ devem ser em **pt-BR** no modo imperativo. (ex.: Adiciona tradução Lorem Ipsum, Atualiza tradução Lorem Ipsum... )
 - Caso o documento possua alguma referência para um documento em inglês, traduza o título e coloque entre parênteses (em inglês). Ex.: [Um título qualquer para o documento (em inglês)](http://www.linkparaodocumento.com).
 
-#### Sobre as labels
+#### Labels para traduções
 
 - _tradução_     - tradução de arquivo em andamento
 - _revisão_      - arquivos que estão sendo revisados
