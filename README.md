@@ -14,21 +14,28 @@ Vamos crescer juntos! Bons estudos!
 
 Abaixo, segue uma relação dos repositórios existentes até o momento no CEREBRO.
 
-- [Tópicos](https://github.com/cerebrobr/topicos)
-- [Glossário](https://github.com/cerebrobr/glossario)
-- [Iniciantes](https://github.com/tableless/iniciantes)
-- [Artigos](https://github.com/cerebrobr/artigos)
-- [Apresentações](https://github.com/cerebrobr/apresentacoes)
-- [Documentações](https://github.com/cerebrobr/documentacoes)
-- [Guias](https://github.com/cerebrobr/guias)
-- [Livros](https://github.com/cerebrobr/livros)
+##### Repositórios Principais
+
 - [Adesivos](https://github.com/cerebrobr/adesivos)
-- [Ferramentas](https://github.com/cerebrobr/ferramentas)
-- [Comunidade](https://github.com/cerebrobr/comunidade)
+- [Apresentações](https://github.com/cerebrobr/apresentacoes)
+- [Artigos](https://github.com/cerebrobr/artigos)
 - [Biblioteca](https://github.com/cerebrobr/biblioteca)
+- [Comunidade](https://github.com/cerebrobr/comunidade)
+- [Documentações](https://github.com/cerebrobr/documentacoes)
+- [Ferramentas](https://github.com/cerebrobr/ferramentas)
+- [Glossário](https://github.com/cerebrobr/glossario)
+- [Guias](https://github.com/cerebrobr/guias)
+- [Iniciantes](https://github.com/tableless/iniciantes)
+- [Livros](https://github.com/cerebrobr/livros)
 - [Pesquisas](https://github.com/cerebrobr/pesquisas)
+- [Tópicos](https://github.com/cerebrobr/topicos)
 - [Universidade](https://github.com/cerebrobr/universidade)
+
+##### Outros repositórios
+
+- [doc-d3.js](https://github.com/cerebrobr/doc-d3.js)
 - [es6features](https://github.com/cerebrobr/es6features)
+- [web-design-para-iniciantes](https://github.com/cerebrobr/web-design-para-iniciantes)
 
 ## Como Contribuir
 
@@ -153,4 +160,3 @@ Segue o mesmo padrão mencionado no [Guia para novos conteúdos](#guia-para-novo
 - Verifique se a licença da obra permite que o mesmo seja traduzido e compartilhado na comunidade com os devidos créditos ao autor original. Isso evita perda de tempo da sua parte e dor de cabeça para todos nós.
 - Alguns documentos e materiais já se encontram traduzidos na iniciativa do link mencionado acima, confira [aqui](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-pt_BR.md) a lista.
 - Qualquer material acerca de Desenvolvimento Web, Comunicação, Programação e TI será bem vindo.
-
