@@ -45,7 +45,6 @@ Abaixo, segue uma relação dos repositórios existentes até o momento no CEREB
 
 - A princípio, os repositórios **universidade** e **pesquisa** serão atualizados apenas pelos administradores. Entretanto, contamos com a sua participação deixando sugestões para aprimorá-los.
 - O repositório **biblioteca** consta como uma referência e abriga futuros materiais para tradução. Serão aceitos somente materiais em _inglês_ neste repositório.
--
 
 **Sobre Contribuições**
 
