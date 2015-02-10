@@ -30,6 +30,7 @@ Abaixo, segue uma relação dos repositórios existentes até o momento no CEREB
 - [Pesquisas](https://github.com/cerebrobr/pesquisas)
 - [Tópicos](https://github.com/cerebrobr/topicos)
 - [Universidade](https://github.com/cerebrobr/universidade)
+- [Meetups](https://github.com/cerebrobr/meetups)
 
 ##### Outros repositórios
 
