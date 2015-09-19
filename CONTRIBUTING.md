@@ -59,21 +59,38 @@ Até o momento, contamos com as seguintes seções para inserção de novos cont
 
 **Para editores**
 
+1. Crie uma nova _branch_ para sua alteração.
 1. Realize as suas alterações.
-2. Faça o _Pull Request_ do arquivo.
-3. Adicione um comentário convocando os editores (_@cerebrobr/editores_) para a revisão.
+1. Faça o _Pull Request_ do arquivo.
+1. Adicione um comentário convocando os editores (_@cerebrobr/editores_) para a revisão.
 
 **Para colaboradores**
 
 1. Faça o _fork_ do repositório desejado.
-2. Realize as suas alterações.
-3. Solicite um _Pull Request_.
-4. Adicione um comentário convocando os editores (_@cerebrobr/editores_) para a revisão.
+1. Crie uma nova _branch_ para sua alteração.
+1. Realize as suas alterações.
+1. Solicite um _Pull Request_.
+1. Adicione um comentário convocando os editores (_@cerebrobr/editores_) para a revisão.
 
 #### Recomendações
 
 - O _merge_ só deverá ser feito após **2 ou mais editores** realizarem a **revisão** do conteúdo.
 - Mensagens de _commits_ devem ser em **pt-BR** no modo imperativo. (ex.: Adiciona tradução Lorem Ipsum, Atualiza documento Lorem Ipsum... )
+
+_Já comitou com a mensagem errada? Existem 2 formas de resolver:_
+
+**Primeira forma:**
+
+Seguir esse link: https://help.github.com/articles/changing-a-commit-message/
+
+**Segunda forma:**
+
+- Fechar esse pull request;
+- Clonar novamente o repositório;
+- Criar uma nova branch (não alterar direto na master);
+- Fazer a alteração;
+- Commitar com a mensagem correta;
+- Enviar um novo pull request.
 
 #### Labels / Status
 
