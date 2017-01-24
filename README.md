@@ -1,3 +1,9 @@
+
+<link rel="icon" href="favicon-16.png" sizes="16x16">
+<link rel="icon" href="favicon-32.png" sizes="32x32">
+<link rel="icon" href="favicon-128.png" sizes="128x128">
+
+
 ![Logo Cerebro](logo-cerebro.jpg "Cerebro")
 
 ## Olá, seja bem-vindo ao CEREBRO!
